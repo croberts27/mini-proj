@@ -43,5 +43,23 @@
             "topic": "Gaming is not a valid topic",
             "username": ""
         }
+    },
+    {
+        "time": 1616087173408,
+        "error_id": "249911fc-ce9d-4905-a934-745845b41c7a",
+        "errors": {
+            "tip:": "",
+            "topic": "Gaming is not a valid topic",
+            "username": ""
+        }
+    },
+    {
+        "time": 1616087173408,
+        "error_id": "249911fc-ce9d-4905-a934-745845b41c7a",
+        "errors": {
+            "tip:": "",
+            "topic": "Movies",
+            "username": ""
+        }
     }
 ]
